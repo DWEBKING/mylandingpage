@@ -1,0 +1,16 @@
+{
+  "name": "blur",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000l\u0000u\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d blur"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DWEBKING.github.io/mylandingpage",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
